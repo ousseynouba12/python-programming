@@ -1,5 +1,4 @@
-def ma_fonction():
-    sama_var = 1
-    print(sama_var)
+def ma_fonction(ma: int):
+    return ma
      
-ma_fonction()
+print(ma_fonction(2))

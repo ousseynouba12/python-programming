@@ -21,3 +21,5 @@ print(False | True)#or
 print(True ^ True)#xor
 
 #String
+nom = 'ousseynou 0'
+print(nom)
